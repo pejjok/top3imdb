@@ -9,7 +9,7 @@ img{
   width: 15vw;
   height: 25vw;
   border-style: solid;
-  border-radius: 0.8cm;
+  border-radius: 0.3cm;
   border-width: 0.07cm;
 }
 nav ul {
@@ -78,3 +78,12 @@ nav li a:hover {
 .thirdp:hover{
   transform: scale(1.06);
 }
+
+.text-center{
+  height: 75vw;
+  margin: 2vw 2vw;
+}
+
+
+
+
